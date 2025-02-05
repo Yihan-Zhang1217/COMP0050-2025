@@ -1,0 +1,1 @@
+- Lecture 1: Introduction to Python + Linear Regression + Logistic Regression (06 Feb 2025)
